@@ -20,3 +20,9 @@ node_modules/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+
+# repro
+payload.db*
+*.log
+AGENTS.md
+CLAUDE.md
